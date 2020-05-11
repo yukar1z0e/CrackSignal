@@ -1,0 +1,2566 @@
+first entering selector
+java
+found is true
+before:org.thoughtcrime.securesms.util.concurrent.SimpleTask
+after:org.thoughtcrime.securesms.util.concurrent.SimpleTask
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.util.concurrent.SimpleTask.isValid [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.concurrent.SimpleTask.lambda$null$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.concurrent.SimpleTask.lambda$null$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.concurrent.SimpleTask.lambda$run$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.concurrent.SimpleTask.lambda$run$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.concurrent.SimpleTask.run [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.ApplicationPreferencesActivity
+after:org.thoughtcrime.securesms.ApplicationPreferencesActivity
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.ApplicationPreferencesActivity.onActivityResult [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationPreferencesActivity.onCreate [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationPreferencesActivity.onPreCreate [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationPreferencesActivity.onResume [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationPreferencesActivity.onSharedPreferenceChanged [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationPreferencesActivity.onSupportNavigateUp [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobmanager.persistence.JobStorage
+after:org.thoughtcrime.securesms.jobmanager.persistence.JobStorage
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.deleteJob [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.deleteJobs [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.getAllConstraintSpecs [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.getAllDependencySpecs [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.getAllJobSpecs [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.getConstraintSpecs [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.getDependencySpecsThatDependOnJob [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.getJobInstanceCount [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.getJobSpec [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.getPendingJobsWithNoDependenciesInCreatedOrder [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.init [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.insertJobs [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.updateAllJobsToBePending [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.updateJobAfterRetry [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.persistence.JobStorage.updateJobRunningState [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener
+after:org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.lambda$null$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.lambda$onInviteSharedContactClicked$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.lambda$onMessageSharedContactClicked$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.lambda$onQuoteClicked$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.lambda$onQuoteClicked$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.lambda$onRevealableMessageClicked$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.lambda$onRevealableMessageClicked$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.onAddToContactsClicked [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.onInviteSharedContactClicked [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.onItemClick [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.onItemLongClick [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.onLinkPreviewClicked [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.onMessageSharedContactClicked [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.onMoreTextClicked [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.onQuoteClicked [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.onRevealableMessageClicked [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.onSharedContactDetailsClicked [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationFragmentItemClickListener.onStickerClicked [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord
+after:org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.getAddress [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.getIdentityKey [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.getTimestamp [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.getVerifiedStatus [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.isApprovedNonBlocking [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.isFirstUse [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.toString [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.InputPanel
+after:org.thoughtcrime.securesms.components.InputPanel
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.InputPanel.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.lambda$onFinishInflate$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.lambda$onFinishInflate$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.lambda$onFinishInflate$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.lambda$onFinishInflate$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.lambda$setListener$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onRecordHideEvent [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.readDimen [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.clearQuote [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.getMediaKeyboardToggleAnchorView [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.getQuote [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.isRecordingInLockedMode [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onEmojiSelected [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onFinishInflate [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onKeyEvent [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onKeyboardShown [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onPause [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onRecordCanceled [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onRecordLocked [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onRecordMoved [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onRecordPermissionRequired [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onRecordPressed [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onRecordReleased [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.onStickerSuggestionClicked [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.releaseRecordingLock [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.setEnabled [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.setLinkPreview [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.setLinkPreviewLoading [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.setListener [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.setMediaKeyboard [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.setMediaKeyboardToggleMode [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.setMediaListener [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.setQuote [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.setStickerSuggestions [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel.showMediaKeyboardToggle [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.database.SearchDatabase
+after:org.thoughtcrime.securesms.database.SearchDatabase
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.database.SearchDatabase.adjustQuery [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.SearchDatabase.lambda$adjustQuery$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.SearchDatabase.queryMessages [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobmanager.-$$Lambda$JobManager$00mki0ax00d0l0P-JHOOPHk0z0c
+after:org.thoughtcrime.securesms.jobmanager.-$$Lambda$JobManager$00mki0ax00d0l0P-JHOOPHk0z0c
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobmanager.-$$Lambda$JobManager$00mki0ax00d0l0P-JHOOPHk0z0c.run [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.ContactFilterToolbar$OnFilterChangedListener
+after:org.thoughtcrime.securesms.components.ContactFilterToolbar$OnFilterChangedListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar$OnFilterChangedListener.onFilterChanged [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.-$$Lambda$ConversationListFragment$B00i00jaaDx0KLJ0F0MTHTli0EI
+after:org.thoughtcrime.securesms.-$$Lambda$ConversationListFragment$B00i00jaaDx0KLJ0F0MTHTli0EI
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.-$$Lambda$ConversationListFragment$B00i00jaaDx0KLJ0F0MTHTli0EI.onClick [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.TransportOptions$OnTransportChangedListener
+after:org.thoughtcrime.securesms.TransportOptions$OnTransportChangedListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.TransportOptions$OnTransportChangedListener.onChange [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobs.AttachmentDownloadJob$Factory
+after:org.thoughtcrime.securesms.jobs.AttachmentDownloadJob$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobs.AttachmentDownloadJob$Factory.create [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobmanager.impl.NetworkConstraintObserver
+after:org.thoughtcrime.securesms.jobmanager.impl.NetworkConstraintObserver
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobmanager.impl.NetworkConstraintObserver.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.impl.NetworkConstraintObserver.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.impl.NetworkConstraintObserver.register [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.service.PersistentAlarmManagerListener
+after:org.thoughtcrime.securesms.service.PersistentAlarmManagerListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.service.PersistentAlarmManagerListener.getNextScheduledExecutionTime [0 overload(s)]
+Tracing org.thoughtcrime.securesms.service.PersistentAlarmManagerListener.onAlarm [0 overload(s)]
+Tracing org.thoughtcrime.securesms.service.PersistentAlarmManagerListener.onReceive [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.ComposeText$CommitContentListener
+after:org.thoughtcrime.securesms.components.ComposeText$CommitContentListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.ComposeText$CommitContentListener.onCommitContent [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.InputPanel$RecordTime
+after:org.thoughtcrime.securesms.components.InputPanel$RecordTime
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.InputPanel$RecordTime.lambda$pulseInterpolator$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel$RecordTime.pulseAnimation [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel$RecordTime.pulseInterpolator [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel$RecordTime.display [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel$RecordTime.hide [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.InputPanel$RecordTime.run [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.database.-$$Lambda$ThreadDatabase$iIM_Sgpj-zgTIAU0RB_0KAWGHxA
+after:org.thoughtcrime.securesms.database.-$$Lambda$ThreadDatabase$iIM_Sgpj-zgTIAU0RB_0KAWGHxA
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.database.-$$Lambda$ThreadDatabase$iIM_Sgpj-zgTIAU0RB_0KAWGHxA.apply [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.database.MmsSmsDatabase$Reader
+after:org.thoughtcrime.securesms.database.MmsSmsDatabase$Reader
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.database.MmsSmsDatabase$Reader.getMmsReader [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.MmsSmsDatabase$Reader.getSmsReader [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.MmsSmsDatabase$Reader.close [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.MmsSmsDatabase$Reader.getCurrent [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.MmsSmsDatabase$Reader.getNext [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository
+after:org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.fetchMetadata [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.fetchStickerPackLinkPreview [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.fetchThumbnail [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.getProperty [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.lambda$fetchStickerPackLinkPreview$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.lambda$fetchStickerPackLinkPreview$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.lambda$fetchThumbnail$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.lambda$fetchThumbnail$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.lambda$fetchThumbnail$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.lambda$getLinkPreview$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.lambda$null$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.linkpreview.LinkPreviewRepository.getLinkPreview [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.util.LRUCache
+after:org.thoughtcrime.securesms.util.LRUCache
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.util.LRUCache.removeEldestEntry [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.reminder.ReminderView$0
+after:org.thoughtcrime.securesms.components.reminder.ReminderView$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.reminder.ReminderView$0.onClick [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.DatabaseUpgradeActivity$0
+after:org.thoughtcrime.securesms.DatabaseUpgradeActivity$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:org.thoughtcrime.securesms.components.ThumbnailView
+after:org.thoughtcrime.securesms.components.ThumbnailView
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.applySizing [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.buildPlaceholderGlideRequest [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.buildThumbnailGlideRequest [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.fillTargetDimensions [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.getDefaultHeight [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.getDefaultWidth [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.getNonZeroCount [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.getTransferControls [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.clear [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.onMeasure [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.setBounds [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.setClickable [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.setDownloadClickListener [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.setFocusable [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.setImageResource [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.setOnClickListener [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.setRadius [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.setThumbnailClickListener [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.showDownloadText [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ThumbnailView.showProgressSpinner [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.ConversationListActivity$0
+after:org.thoughtcrime.securesms.ConversationListActivity$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.ConversationListActivity$0.onSearchClosed [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListActivity$0.onSearchTextChange [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.util.AbstractCursorLoader
+after:org.thoughtcrime.securesms.util.AbstractCursorLoader
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.util.AbstractCursorLoader.deliverResult [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.AbstractCursorLoader.getCursor [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.AbstractCursorLoader.loadInBackground [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.AbstractCursorLoader.onCanceled [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.AbstractCursorLoader.onReset [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.AbstractCursorLoader.onStartLoading [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.AbstractCursorLoader.onStopLoading [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.-$$Lambda$ConversationListActivity$0emS0qjl0aAriqYM0sD0TAI0xsw
+after:org.thoughtcrime.securesms.-$$Lambda$ConversationListActivity$0emS0qjl0aAriqYM0sD0TAI0xsw
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.-$$Lambda$ConversationListActivity$0emS0qjl0aAriqYM0sD0TAI0xsw.onClick [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.util.concurrent.AssertedSuccessListener
+after:org.thoughtcrime.securesms.util.concurrent.AssertedSuccessListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.util.concurrent.AssertedSuccessListener.onFailure [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader
+after:org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.getHeader [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.getHeaderTop [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.conversation.ConversationSearchViewModel
+after:org.thoughtcrime.securesms.conversation.ConversationSearchViewModel
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.lambda$null$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.lambda$null$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.lambda$updateQuery$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.updateQuery [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.getSearchResults [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.onCleared [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.onMissingResult [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.onMoveDown [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.onMoveUp [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.onQueryUpdated [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.onSearchClosed [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationSearchViewModel.onSearchOpened [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.emoji.MediaKeyboardProvider$Presenter
+after:org.thoughtcrime.securesms.components.emoji.MediaKeyboardProvider$Presenter
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.emoji.MediaKeyboardProvider$Presenter.getCurrentPosition [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.emoji.MediaKeyboardProvider$Presenter.isVisible [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.emoji.MediaKeyboardProvider$Presenter.present [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.emoji.MediaKeyboardProvider$Presenter.requestDismissal [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.-$$Lambda$ConversationListActivity$jsI0cYcqLWgOAuxFSa0gaL0f0LE
+after:org.thoughtcrime.securesms.-$$Lambda$ConversationListActivity$jsI0cYcqLWgOAuxFSa0gaL0f0LE
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.-$$Lambda$ConversationListActivity$jsI0cYcqLWgOAuxFSa0gaL0f0LE.run [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.permissions.Permissions$ActivityPermissionObject
+after:org.thoughtcrime.securesms.permissions.Permissions$ActivityPermissionObject
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.permissions.Permissions$ActivityPermissionObject.getContext [0 overload(s)]
+Tracing org.thoughtcrime.securesms.permissions.Permissions$ActivityPermissionObject.hasAll [0 overload(s)]
+Tracing org.thoughtcrime.securesms.permissions.Permissions$ActivityPermissionObject.requestPermissions [0 overload(s)]
+Tracing org.thoughtcrime.securesms.permissions.Permissions$ActivityPermissionObject.shouldShouldPermissionRationale [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter
+after:org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.addFastRecord [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.cleanFastRecords [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessItemId [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessItemViewType [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getItemId [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getItemViewType [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getRecordForPositionOrThrow [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getRecordFromCursor [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isRecordForId [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.onBindFastAccessItemViewHolder [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.onBindItemViewHolder [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.releaseFastRecord [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.conversation.ConversationActivity$0$0
+after:org.thoughtcrime.securesms.conversation.ConversationActivity$0$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.conversation.ConversationActivity$0$0.lambda$onSuccess$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationActivity$0$0.onSuccess [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.database.RecipientDatabase$RecipientReader
+after:org.thoughtcrime.securesms.database.RecipientDatabase$RecipientReader
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.database.RecipientDatabase$RecipientReader.close [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.RecipientDatabase$RecipientReader.getCurrent [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.RecipientDatabase$RecipientReader.getNext [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.reminder.DozeReminder
+after:org.thoughtcrime.securesms.components.reminder.DozeReminder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.reminder.DozeReminder.isEligible [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.reminder.DozeReminder.lambda$new$0 [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.-$$Lambda$LinkPreviewView$DH0mi0lEXI0eoSN_nmNeKx0TF0Q
+after:org.thoughtcrime.securesms.components.-$$Lambda$LinkPreviewView$DH0mi0lEXI0eoSN_nmNeKx0TF0Q
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.-$$Lambda$LinkPreviewView$DH0mi0lEXI0eoSN_nmNeKx0TF0Q.onClick [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.crypto.storage.TextSecureSessionStore
+after:org.thoughtcrime.securesms.crypto.storage.TextSecureSessionStore
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.crypto.storage.TextSecureSessionStore.archiveAllSessions [0 overload(s)]
+Tracing org.thoughtcrime.securesms.crypto.storage.TextSecureSessionStore.archiveSiblingSessions [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.components.InputPanel.isRecordingInLockedMode
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.components.InputPanel.isRecordingInLockedMode
+
+*** entered org.thoughtcrime.securesms.components.InputPanel.getQuote
+
+retval: Optional.absent()
+
+trans object: {"$handle":"0x00fb0","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.components.InputPanel.getQuote
+
+*** entered org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.getVerifiedStatus
+
+retval: DEFAULT
+
+trans object: {"$handle":"0x00ff0","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.getVerifiedStatus
+
+*** entered org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.isApprovedNonBlocking
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.isApprovedNonBlocking
+
+*** entered org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.getTimestamp
+
+retval: 0000000000000
+
+trans object: "0000000000000"
+
+*** exiting org.thoughtcrime.securesms.database.IdentityDatabase$IdentityRecord.getTimestamp
+
+*** entered org.thoughtcrime.securesms.permissions.Permissions$ActivityPermissionObject.getContext
+
+retval: org.thoughtcrime.securesms.conversation.ConversationActivity@00bc000
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.permissions.Permissions$ActivityPermissionObject.getContext
+
+*** entered org.thoughtcrime.securesms.permissions.Permissions$ActivityPermissionObject.hasAll
+
+arg[0]: android.permission.SEND_SMS
+Transfer Object to JSON
+arg[0]: ["android.permission.SEND_SMS"]
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.permissions.Permissions$ActivityPermissionObject.hasAll
+
+*** entered org.thoughtcrime.securesms.components.InputPanel.setStickerSuggestions
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000a0","$weakRef":000}
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.thoughtcrime.securesms.components.InputPanel.setStickerSuggestions
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.addFastRecord
+
+arg[0]: org.thoughtcrime.securesms.database.model.SmsMessageRecord@00aee000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000d0","$weakRef":000}
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.addFastRecord
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessItemViewType
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessItemViewType
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessItemId
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: 0000000000000000000
+
+trans object: "0000000000000000000"
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessItemId
+Tracing org.thoughtcrime.securesms.crypto.storage.TextSecureSessionStore.containsSession [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessItemId
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: 0000000000000000000
+
+trans object: "0000000000000000000"
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessItemId
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+Tracing org.thoughtcrime.securesms.crypto.storage.TextSecureSessionStore.deleteAllSessions [0 overload(s)]
+Tracing org.thoughtcrime.securesms.crypto.storage.TextSecureSessionStore.deleteSession [0 overload(s)]
+Tracing org.thoughtcrime.securesms.crypto.storage.TextSecureSessionStore.getSubDeviceSessions [0 overload(s)]
+Tracing org.thoughtcrime.securesms.crypto.storage.TextSecureSessionStore.loadSession [0 overload(s)]
+Tracing org.thoughtcrime.securesms.crypto.storage.TextSecureSessionStore.storeSession [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.onBindFastAccessItemViewHolder
+
+found is true
+before:org.thoughtcrime.securesms.jobs.-$$Lambda$FastJobStorage$0bmyA00Tpsd0uSZz00FjVmaY0pU
+after:org.thoughtcrime.securesms.jobs.-$$Lambda$FastJobStorage$0bmyA00Tpsd0uSZz00FjVmaY0pU
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobs.-$$Lambda$FastJobStorage$0bmyA00Tpsd0uSZz00FjVmaY0pU.test [0 overload(s)]
+arg[0]: ViewHolder{c0a0000 position=0 id=0000000000000000000, oldPos=-0, pLpos:-0 no parent}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000e0","$weakRef":000}
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getRecordForPositionOrThrow
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+found is true
+before:org.thoughtcrime.securesms.jobs.SmsSendJob$Factory
+after:org.thoughtcrime.securesms.jobs.SmsSendJob$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobs.SmsSendJob$Factory.create [0 overload(s)]
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: org.thoughtcrime.securesms.database.model.SmsMessageRecord@0
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getRecordForPositionOrThrow
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.onBindFastAccessItemViewHolder
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+found is true
+before:org.thoughtcrime.securesms.recipients.RecipientFormattingException
+after:org.thoughtcrime.securesms.recipients.RecipientFormattingException
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:org.thoughtcrime.securesms.util.CloseableLiveData
+after:org.thoughtcrime.securesms.util.CloseableLiveData
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.util.CloseableLiveData.close [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.CloseableLiveData.setValue [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.conversation.ConversationItem$LinkPreviewClickListener
+after:org.thoughtcrime.securesms.conversation.ConversationItem$LinkPreviewClickListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.conversation.ConversationItem$LinkPreviewClickListener.onClick [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.reminder.ReminderView
+after:org.thoughtcrime.securesms.components.reminder.ReminderView
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.reminder.ReminderView.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.reminder.ReminderView.initialize [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.reminder.ReminderView.hide [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000c0","$weakRef":000}
+arg[0]: 0
+Tracing org.thoughtcrime.securesms.components.reminder.ReminderView.requestDismiss [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.reminder.ReminderView.setOnDismissListener [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.reminder.ReminderView.showReminder [0 overload(s)]
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+found is true
+before:org.thoughtcrime.securesms.database.Address$ExternalAddressFormatter
+after:org.thoughtcrime.securesms.database.Address$ExternalAddressFormatter
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.database.Address$ExternalAddressFormatter.applyAreaCodeRules [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getItemViewType
+
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getItemViewType
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+arg[0]: 0
+Tracing org.thoughtcrime.securesms.database.Address$ExternalAddressFormatter.isShortCode [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.Address$ExternalAddressFormatter.parseAreaCode [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.Address$ExternalAddressFormatter.format [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobs.-$$Lambda$FastJobStorage$MLDLTtS0dlAzKgYTJNBeEZFQ0Q0
+after:org.thoughtcrime.securesms.jobs.-$$Lambda$FastJobStorage$MLDLTtS0dlAzKgYTJNBeEZFQ0Q0
+entering traceClass
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+entering pasedMethods
+entering traceMethods
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.onBindItemViewHolder
+
+arg[0]: ViewHolder{00bffcb position=0 id=-0000000000000000000, oldPos=-0, pLpos:-0 scrap [attachedScrap] tmpDetached no parent}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getRecordForPositionOrThrow
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+arg[0]: 0
+Tracing org.thoughtcrime.securesms.jobs.-$$Lambda$FastJobStorage$MLDLTtS0dlAzKgYTJNBeEZFQ0Q0.test [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobs.RotateSignedPreKeyJob$Factory
+after:org.thoughtcrime.securesms.jobs.RotateSignedPreKeyJob$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: org.thoughtcrime.securesms.database.model.SmsMessageRecord@00aee000
+
+trans object: {"$handle":"0x000b0","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getRecordForPositionOrThrow
+Tracing org.thoughtcrime.securesms.jobs.RotateSignedPreKeyJob$Factory.create [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobs.TrimThreadJob
+after:org.thoughtcrime.securesms.jobs.TrimThreadJob
+entering traceClass
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.onBindItemViewHolder
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getRecordForPositionOrThrow
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+arg[0]: 0
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+arg[0]: 0
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getCalculatedPosition
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.isFastAccessPosition
+
+retval: org.thoughtcrime.securesms.database.model.SmsMessageRecord@0
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getRecordForPositionOrThrow
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobs.TrimThreadJob.getFactoryKey [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... .......D 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+Tracing org.thoughtcrime.securesms.jobs.TrimThreadJob.onCanceled [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobs.TrimThreadJob.onRun [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobs.TrimThreadJob.onShouldRetry [0 overload(s)]
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... .......D 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.jobs.TrimThreadJob.serialize [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.components.InputPanel.isRecordingInLockedMode
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.components.InputPanel.isRecordingInLockedMode
+found is true
+before:org.thoughtcrime.securesms.components.emoji.EmojiEditText
+after:org.thoughtcrime.securesms.components.emoji.EmojiEditText
+entering traceClass
+
+*** entered org.thoughtcrime.securesms.components.InputPanel.setLinkPreview
+
+arg[0]: org.thoughtcrime.securesms.mms.GlideRequests@000ac00{tracker=com.bumptech.glide.manager.RequestTracker@0d0c000{numRequests=0, isPaused=false}, treeNode=com.bumptech.glide.manager.SupportRequestManagerFragment$SupportFragmentRequestManagerTreeNode@0d0aeda{fragment=SupportRequestManagerFragment{0bd0f0b (fb0aac00-0000-00b0-0000-00dc0f0000d0) com.bumptech.glide.manager}{parent=null}}}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: Optional.absent()
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+
+*** entered org.thoughtcrime.securesms.components.InputPanel.readDimen
+
+arg[0]: 0000000000
+
+retval: 00
+
+trans object: 00
+
+*** exiting org.thoughtcrime.securesms.components.InputPanel.readDimen
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.thoughtcrime.securesms.components.InputPanel.setLinkPreview
+
+*** entered org.thoughtcrime.securesms.components.InputPanel.isRecordingInLockedMode
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.components.InputPanel.isRecordingInLockedMode
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... .......D 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... .......D 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000a0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000b0","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.emoji.EmojiEditText.appendEmojiFilter [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.emoji.EmojiEditText.insertEmoji [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.emoji.EmojiEditText.invalidateDrawable [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.logging.LogSecretProvider
+after:org.thoughtcrime.securesms.logging.LogSecretProvider
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.logging.LogSecretProvider.createAndStoreSecret [0 overload(s)]
+Tracing org.thoughtcrime.securesms.logging.LogSecretProvider.getOrCreateAttachmentSecret [0 overload(s)]
+Tracing org.thoughtcrime.securesms.logging.LogSecretProvider.parseEncryptedSecret [0 overload(s)]
+Tracing org.thoughtcrime.securesms.logging.LogSecretProvider.parseUnencryptedSecret [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.linkpreview.-$$Lambda$LinkPreviewViewModel$mVC0YJYIL_LrnUDCoODAZNOgUq0
+after:org.thoughtcrime.securesms.linkpreview.-$$Lambda$LinkPreviewViewModel$mVC0YJYIL_LrnUDCoODAZNOgUq0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.linkpreview.-$$Lambda$LinkPreviewViewModel$mVC0YJYIL_LrnUDCoODAZNOgUq0.run [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationDateHeader
+after:org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationDateHeader
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationDateHeader.access$0000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationDateHeader.access$0000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationDateHeader.access$0000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationDateHeader.hide [0 overload(s)]
+Tracing org.thoughtcrime.securesms.conversation.ConversationFragment$ConversationDateHeader.show [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.emoji.parsing.EmojiPageBitmap$0
+after:org.thoughtcrime.securesms.components.emoji.parsing.EmojiPageBitmap$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.emoji.parsing.EmojiPageBitmap$0.doInBackground [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.emoji.parsing.EmojiPageBitmap$0.onPostExecute [0 overload(s)]
+found is true
+before:[Lorg.thoughtcrime.securesms.database.IdentityDatabase$VerifiedStatus;
+after:[Lorg.thoughtcrime.securesms.database.IdentityDatabase$VerifiedStatus;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:org.thoughtcrime.securesms.logging.Log$Logger
+after:org.thoughtcrime.securesms.logging.Log$Logger
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.logging.Log$Logger.blockUntilAllWritesFinished [0 overload(s)]
+Tracing org.thoughtcrime.securesms.logging.Log$Logger.d [0 overload(s)]
+Tracing org.thoughtcrime.securesms.logging.Log$Logger.e [0 overload(s)]
+Tracing org.thoughtcrime.securesms.logging.Log$Logger.i [0 overload(s)]
+Tracing org.thoughtcrime.securesms.logging.Log$Logger.v [0 overload(s)]
+Tracing org.thoughtcrime.securesms.logging.Log$Logger.w [0 overload(s)]
+Tracing org.thoughtcrime.securesms.logging.Log$Logger.wtf [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.util.SearchUtil
+after:org.thoughtcrime.securesms.util.SearchUtil
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.util.SearchUtil.getHighlightRanges [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.SearchUtil.getHighlightedSpan [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.SearchUtil.lambda$getHighlightRanges$0 [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobs.TypingSendJob
+after:org.thoughtcrime.securesms.jobs.TypingSendJob
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobs.TypingSendJob.lambda$onRun$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobs.TypingSendJob.lambda$onRun$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobs.TypingSendJob.getFactoryKey [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobs.TypingSendJob.onCanceled [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobs.TypingSendJob.onRun [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobs.TypingSendJob.onShouldRetry [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobs.TypingSendJob.serialize [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.preferences.CorrectedPreferenceFragment$0
+after:org.thoughtcrime.securesms.preferences.CorrectedPreferenceFragment$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.preferences.CorrectedPreferenceFragment$0.onBindViewHolder [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.util.Throttler
+after:org.thoughtcrime.securesms.util.Throttler
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.util.Throttler.clear [0 overload(s)]
+Tracing org.thoughtcrime.securesms.util.Throttler.publish [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobmanager.-$$Lambda$oulrh0Ynuq0SgXmdmQvauzsftoA
+after:org.thoughtcrime.securesms.jobmanager.-$$Lambda$oulrh0Ynuq0SgXmdmQvauzsftoA
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobmanager.-$$Lambda$oulrh0Ynuq0SgXmdmQvauzsftoA.run [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.ComposeText$CursorPositionChangedListener
+after:org.thoughtcrime.securesms.components.ComposeText$CursorPositionChangedListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.ComposeText$CursorPositionChangedListener.onCursorPositionChanged [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.-$$Lambda$SearchToolbar$fDArb0zuu0sD0P0nAVW0Ns00kWs
+after:org.thoughtcrime.securesms.components.-$$Lambda$SearchToolbar$fDArb0zuu0sD0P0nAVW0Ns00kWs
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.-$$Lambda$SearchToolbar$fDArb0zuu0sD0P0nAVW0Ns00kWs.onClick [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobmanager.Data$Serializer
+after:org.thoughtcrime.securesms.jobmanager.Data$Serializer
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobmanager.Data$Serializer.deserialize [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.Data$Serializer.serialize [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.ConversationListFragment$ArchiveListenerCallback
+after:org.thoughtcrime.securesms.ConversationListFragment$ArchiveListenerCallback
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.ConversationListFragment$ArchiveListenerCallback.getSwipeDirs [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment$ArchiveListenerCallback.onChildDraw [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment$ArchiveListenerCallback.onMove [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment$ArchiveListenerCallback.onSwiped [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.conversation.ConversationStickerSuggestionAdapter$EventListener
+after:org.thoughtcrime.securesms.conversation.ConversationStickerSuggestionAdapter$EventListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.conversation.ConversationStickerSuggestionAdapter$EventListener.onStickerSuggestionClicked [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobs.PushDecryptJob$StorageFailedException
+after:org.thoughtcrime.securesms.jobs.PushDecryptJob$StorageFailedException
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobs.PushDecryptJob$StorageFailedException.getSender [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobs.PushDecryptJob$StorageFailedException.getSenderDevice [0 overload(s)]
+found is true
+before:[Lorg.thoughtcrime.securesms.util.TextSecurePreferences$MediaKeyboardMode;
+after:[Lorg.thoughtcrime.securesms.util.TextSecurePreferences$MediaKeyboardMode;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:org.thoughtcrime.securesms.jobmanager.JobManager$Configuration$Builder
+after:org.thoughtcrime.securesms.jobmanager.JobManager$Configuration$Builder
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobmanager.JobManager$Configuration$Builder.build [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.JobManager$Configuration$Builder.setConstraintFactories [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.JobManager$Configuration$Builder.setConstraintObservers [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.JobManager$Configuration$Builder.setDataSerializer [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.JobManager$Configuration$Builder.setExecutorFactory [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.JobManager$Configuration$Builder.setJobFactories [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.JobManager$Configuration$Builder.setJobStorage [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.JobManager$Configuration$Builder.setJobThreadCount [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobmanager.-$$Lambda$JobManager$eM0XICuhA_A-sAWnawLU0-IiOiA
+after:org.thoughtcrime.securesms.jobmanager.-$$Lambda$JobManager$eM0XICuhA_A-sAWnawLU0-IiOiA
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobmanager.-$$Lambda$JobManager$eM0XICuhA_A-sAWnawLU0-IiOiA.onEmpty [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.recipients.RecipientModifiedListener
+after:org.thoughtcrime.securesms.recipients.RecipientModifiedListener
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.recipients.RecipientModifiedListener.onModified [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.ContactFilterToolbar
+after:org.thoughtcrime.securesms.components.ContactFilterToolbar
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar.displayTogglingView [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar.expandTapArea [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar.notifyListener [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar.clear [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.ContactFilterToolbar.setOnFilterChangedListener [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobmanager.JobRunner
+after:org.thoughtcrime.securesms.jobmanager.JobRunner
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobmanager.JobRunner.isJobExpired [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.JobRunner.printResult [0 overload(s)]
+Tracing org.thoughtcrime.securesms.jobmanager.JobRunner.run [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.util.-$$Lambda$DirectoryHelper$kC-frHUr0o0M_H000UnvFvfRwj0
+after:org.thoughtcrime.securesms.util.-$$Lambda$DirectoryHelper$kC-frHUr0o0M_H000UnvFvfRwj0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.util.-$$Lambda$DirectoryHelper$kC-frHUr0o0M_H000UnvFvfRwj0.call [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.database.NoSuchMessageException
+after:org.thoughtcrime.securesms.database.NoSuchMessageException
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:org.thoughtcrime.securesms.jobs.RefreshUnidentifiedDeliveryAbilityJob$Factory
+after:org.thoughtcrime.securesms.jobs.RefreshUnidentifiedDeliveryAbilityJob$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobs.RefreshUnidentifiedDeliveryAbilityJob$Factory.create [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobs.PushDecryptJob$Factory
+after:org.thoughtcrime.securesms.jobs.PushDecryptJob$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobs.PushDecryptJob$Factory.create [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.database.SmsDatabase$OutgoingMessageReader
+after:org.thoughtcrime.securesms.database.SmsDatabase$OutgoingMessageReader
+entering traceClass
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.releaseFastRecord
+
+arg[0]: 0000000000000000000
+Transfer Object to JSON
+arg[0]: "0000000000000000000"
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.database.SmsDatabase$OutgoingMessageReader.getCurrent [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.database.DatabaseContentProviders$NoopContentProvider
+after:org.thoughtcrime.securesms.database.DatabaseContentProviders$NoopContentProvider
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.database.DatabaseContentProviders$NoopContentProvider.delete [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.DatabaseContentProviders$NoopContentProvider.getType [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.DatabaseContentProviders$NoopContentProvider.insert [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.DatabaseContentProviders$NoopContentProvider.onCreate [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.DatabaseContentProviders$NoopContentProvider.query [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.DatabaseContentProviders$NoopContentProvider.update [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.dependencies.ApplicationDependencies$Provider
+after:org.thoughtcrime.securesms.dependencies.ApplicationDependencies$Provider
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.dependencies.ApplicationDependencies$Provider.getSignalServiceAccountManager [0 overload(s)]
+Tracing org.thoughtcrime.securesms.dependencies.ApplicationDependencies$Provider.getSignalServiceMessageReceiver [0 overload(s)]
+Tracing org.thoughtcrime.securesms.dependencies.ApplicationDependencies$Provider.getSignalServiceMessageSender [0 overload(s)]
+Tracing org.thoughtcrime.securesms.dependencies.ApplicationDependencies$Provider.getSignalServiceNetworkAccess [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobs.SmsSentJob$Factory
+after:org.thoughtcrime.securesms.jobs.SmsSentJob$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.releaseFastRecord
+Tracing org.thoughtcrime.securesms.jobs.SmsSentJob$Factory.create [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.preferences.AppearancePreferenceFragment
+after:org.thoughtcrime.securesms.preferences.AppearancePreferenceFragment
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.preferences.AppearancePreferenceFragment.getSummary [0 overload(s)]
+Tracing org.thoughtcrime.securesms.preferences.AppearancePreferenceFragment.onCreate [0 overload(s)]
+Tracing org.thoughtcrime.securesms.preferences.AppearancePreferenceFragment.onCreatePreferences [0 overload(s)]
+Tracing org.thoughtcrime.securesms.preferences.AppearancePreferenceFragment.onResume [0 overload(s)]
+Tracing org.thoughtcrime.securesms.preferences.AppearancePreferenceFragment.onStart [0 overload(s)]
+Tracing org.thoughtcrime.securesms.preferences.AppearancePreferenceFragment.onStop [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.ConversationListFragment
+after:org.thoughtcrime.securesms.ConversationListFragment
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.ConversationListFragment.access$000 [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000a0","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000c0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000d0","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.ConversationListFragment.access$000 [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.ConversationListFragment.access$000 [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000e0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000f0","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.ConversationListFragment.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.handleArchiveAllSelected [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000b0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000c0","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.ConversationListFragment.handleCreateConversation [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.handleDeleteAllSelected [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.handleSelectAllThreads [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.ConversationListFragment.initializeListAdapter [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.initializeTypingObserver [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.lambda$handleDeleteAllSelected$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.lambda$initializeTypingObserver$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.lambda$null$0 [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000d0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000e0","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.ConversationListFragment.lambda$null$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.lambda$onActivityCreated$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.lambda$onActivityCreated$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.lambda$onCreateView$0 [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000b0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000c0","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.ConversationListFragment.updateReminders [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.getListAdapter [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onActionItemClicked [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onActivityCreated [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onCreate [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onCreateActionMode [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onCreateLoader [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onCreateView [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onDestroyActionMode [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000c0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000d0","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000f0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onEvent [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onItemClick [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onItemLongClick [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onLoadFinished [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onLoaderReset [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000a0","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onPause [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onPrepareActionMode [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onResume [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.onSwitchToArchive [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ConversationListFragment.resetQueryFilter [0 overload(s)]
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... ......ID 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00000","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+Tracing org.thoughtcrime.securesms.ConversationListFragment.setQueryFilter [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.service.DirectoryRefreshListener
+after:org.thoughtcrime.securesms.service.DirectoryRefreshListener
+entering traceClass
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.database.FastCursorRecyclerViewAdapter.getFastAccessSize
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... .......D 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000a0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000b0","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+*** entered org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+
+arg[0]: androidx.recyclerview.widget.RecyclerView{f0be0c0 VFED.V... .......D 0,0-000,000 #000000a android:id/list}
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000d0","$weakRef":000}
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x000e0","$weakRef":000}
+arg[0]: 0
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.conversation.ConversationAdapter$LastSeenHeader.hasHeader
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.service.DirectoryRefreshListener.schedule [0 overload(s)]
+Tracing org.thoughtcrime.securesms.service.DirectoryRefreshListener.getNextScheduledExecutionTime [0 overload(s)]
+Tracing org.thoughtcrime.securesms.service.DirectoryRefreshListener.onAlarm [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.components.SearchToolbar
+after:org.thoughtcrime.securesms.components.SearchToolbar
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.components.SearchToolbar.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.SearchToolbar.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.SearchToolbar.hide [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.SearchToolbar.initialize [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.SearchToolbar.lambda$initialize$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.SearchToolbar.collapse [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.SearchToolbar.display [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.SearchToolbar.isVisible [0 overload(s)]
+Tracing org.thoughtcrime.securesms.components.SearchToolbar.setListener [0 overload(s)]
+found is true
+before:[Lorg.thoughtcrime.securesms.logging.Log$Logger;
+after:[Lorg.thoughtcrime.securesms.logging.Log$Logger;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+found is true
+before:org.thoughtcrime.securesms.jobmanager.-$$Lambda$DHTXSP0kgmmz0wohPzKI0aG0u0E
+after:org.thoughtcrime.securesms.jobmanager.-$$Lambda$DHTXSP0kgmmz0wohPzKI0aG0u0E
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobmanager.-$$Lambda$DHTXSP0kgmmz0wohPzKI0aG0u0E.test [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.conversation.ConversationStickerViewModel$Factory
+after:org.thoughtcrime.securesms.conversation.ConversationStickerViewModel$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.conversation.ConversationStickerViewModel$Factory.create [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.ApplicationContext
+after:org.thoughtcrime.securesms.ApplicationContext
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.ApplicationContext.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.executePendingContactSync [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.getInstance [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeAppDependencies [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeBlobProvider [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeCameraX [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeCircumvention [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeCrashHandling [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeExpiringMessageManager [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeGcmCheck [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeJobManager [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeLogging [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializePendingMessages [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializePeriodicTasks [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeRevealableMessageManager [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeSecurityProvider [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeSignedPreKeyCheck [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeTypingStatusRepository [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeTypingStatusSender [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeUnidentifiedDeliveryAbilityRefresh [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeWebRtc [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.lambda$initializeBlobProvider$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.attachBaseContext [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.getExpiringMessageManager [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.getJobManager [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.getPersistentLogger [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.getRevealableMessageManager [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.getTypingStatusRepository [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.getTypingStatusSender [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.initializeMessageRetrieval [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.isAppVisible [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.onCreate [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.onDestroy [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.onPause [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.onResume [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.onStart [0 overload(s)]
+Tracing org.thoughtcrime.securesms.ApplicationContext.onStop [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.database.ThreadDatabase
+after:org.thoughtcrime.securesms.database.ThreadDatabase
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.access$000 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.createQuery [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.createThreadForRecipient [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.deleteAllThreads [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.deleteThread [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.deleteThreads [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getAttachmentUriFor [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getContentTypeFor [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getConversationList [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getExtrasFor [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getFormattedBodyFor [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.lambda$static$0 [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.updateThread [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.archiveConversation [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.deleteAllConversations [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.deleteConversation [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.deleteConversations [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getArchivedConversationList [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getArchivedConversationListCount [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getDirectShareList [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getDistributionType [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getFilteredConversationList [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getLastSeenAndHasSent [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getRecentConversationList [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getRecentPushConversationList [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getRecipientForThreadId [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getThreadIdFor [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.getThreadIdIfExistsFor [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.incrementUnread [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.readerFor [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.setAllThreadsRead [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.setDistributionType [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.setHasSent [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.setLastSeen [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.setRead [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.trimAllThreads [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.trimThread [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.unarchiveConversation [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.update [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.updateReadState [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.ThreadDatabase.updateSnippet [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.jobs.StickerPackDownloadJob$Factory
+after:org.thoughtcrime.securesms.jobs.StickerPackDownloadJob$Factory
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.jobs.StickerPackDownloadJob$Factory.create [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.database.Address
+after:org.thoughtcrime.securesms.database.Address
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.database.Address.fromExternal [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.Address.fromSerialized [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.Address.fromSerializedList [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.Address.getExternalAddressFormatter [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.Address.toSerializedList [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.Address.compareTo [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.Address.describeContents [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.Address.equals [0 overload(s)]
+Tracing org.thoughtcrime.securesms.database.Address.hashCode [0 overload(s)]

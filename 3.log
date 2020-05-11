@@ -1,0 +1,1081 @@
+first entering selector
+java
+found is true
+before:org.thoughtcrime.securesms.sms.IncomingTextMessage$0
+after:org.thoughtcrime.securesms.sms.IncomingTextMessage$0
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage$0.createFromParcel [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage$0.newArray [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.sms.MessageSender
+after:org.thoughtcrime.securesms.sms.MessageSender
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.sms.MessageSender.isGroupPushSend [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.isLocalSelfSend [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.isPushDestination [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.isPushMediaSend [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.isPushTextSend [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.isValidBroadcastList [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.resend [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.resendGroupMessage [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.send [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.sendGroupPush [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.sendLocalMediaSelf [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.sendLocalTextSelf [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.sendMediaBroadcast [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.sendMediaMessage [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.sendMediaPush [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.sendMms [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.sendSms [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.sendTextMessage [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.MessageSender.sendTextPush [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.sms.IncomingTextMessage
+after:org.thoughtcrime.securesms.sms.IncomingTextMessage
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.describeContents [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.getExpiresIn [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.getGroupId [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.getMessageBody [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.getProtocol [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.getPseudoSubject [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.getRevealDuration [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.getSenderDeviceId [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.getSentTimestampMillis [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.getServiceCenterAddress [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.getSubscriptionId [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isContentPreKeyBundle [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isEndSession [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isGroup [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isJoined [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isLegacyPreKeyBundle [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isPreKeyBundle [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isReplyPathPresent [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isSecureMessage [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.isUnidentified [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.withMessageBody [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingTextMessage.writeToParcel [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.sms.OutgoingEncryptedMessage
+after:org.thoughtcrime.securesms.sms.OutgoingEncryptedMessage
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.sms.OutgoingEncryptedMessage.isSecureMessage [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingEncryptedMessage.withBody [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.sms.IncomingEncryptedMessage
+after:org.thoughtcrime.securesms.sms.IncomingEncryptedMessage
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.sms.IncomingEncryptedMessage.isSecureMessage [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.IncomingEncryptedMessage.withMessageBody [0 overload(s)]
+found is true
+before:org.thoughtcrime.securesms.sms.OutgoingTextMessage
+after:org.thoughtcrime.securesms.sms.OutgoingTextMessage
+entering traceClass
+entering pasedMethods
+entering traceMethods
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.from [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.getExpiresIn [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.getMessageBody [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.getRecipient [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.getSubscriptionId [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.isEndSession [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityDefault [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityVerified [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.isKeyExchange [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.isPreKeyBundle [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.isSecureMessage [0 overload(s)]
+Tracing org.thoughtcrime.securesms.sms.OutgoingTextMessage.withBody [0 overload(s)]
+found is true
+before:[Lorg.thoughtcrime.securesms.sms.OutgoingTextMessage;
+after:[Lorg.thoughtcrime.securesms.sms.OutgoingTextMessage;
+entering traceClass
+entering pasedMethods
+entering traceMethods
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.getMessageBody
+
+retval: hhha
+
+trans object: "hhha"
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.getMessageBody
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.getRecipient
+
+retval: org.thoughtcrime.securesms.recipients.Recipient@bca00000
+
+trans object: {"$handle":"0x00000","$weakRef":00}
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.getRecipient
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.getRecipient
+
+retval: org.thoughtcrime.securesms.recipients.Recipient@bca00000
+
+trans object: {"$handle":"0x0000a","$weakRef":00}
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.getRecipient
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingEncryptedMessage.isSecureMessage
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingEncryptedMessage.isSecureMessage
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.getSubscriptionId
+
+retval: -0
+
+trans object: -0
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.getSubscriptionId
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.getExpiresIn
+
+retval: 0
+
+trans object: "0"
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.getExpiresIn
+
+*** entered org.thoughtcrime.securesms.sms.MessageSender.send
+
+arg[0]: org.thoughtcrime.securesms.ApplicationContext@dad0000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x0000a","$weakRef":000}
+arg[0]: org.thoughtcrime.securesms.sms.OutgoingEncryptedMessage@a00000b
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00ff0","$weakRef":000}
+arg[0]: 0
+Transfer Object to JSON
+arg[0]: "0"
+arg[0]: false
+arg[0]: [object Object]
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00fd0","$weakRef":000}
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.getRecipient
+
+retval: org.thoughtcrime.securesms.recipients.Recipient@bca00000
+
+trans object: {"$handle":"0x00faa","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.getRecipient
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.isKeyExchange
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.isKeyExchange
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.isKeyExchange
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.isKeyExchange
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingEncryptedMessage.isSecureMessage
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingEncryptedMessage.isSecureMessage
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityVerified
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityVerified
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityDefault
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityDefault
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.getRecipient
+
+retval: org.thoughtcrime.securesms.recipients.Recipient@bca00000
+
+trans object: {"$handle":"0x00000","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.getRecipient
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.getMessageBody
+
+retval: hhha
+
+trans object: "hhha"
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.getMessageBody
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.getSubscriptionId
+
+retval: -0
+
+trans object: -0
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.getSubscriptionId
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.getExpiresIn
+
+retval: 0
+
+trans object: "0"
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.getExpiresIn
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityVerified
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityVerified
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityDefault
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityDefault
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityVerified
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityVerified
+
+*** entered org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityDefault
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.OutgoingTextMessage.isIdentityDefault
+
+*** entered org.thoughtcrime.securesms.sms.MessageSender.sendTextMessage
+
+arg[0]: org.thoughtcrime.securesms.ApplicationContext@dad0000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00eca","$weakRef":000}
+arg[0]: org.thoughtcrime.securesms.recipients.Recipient@bca00000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00eba","$weakRef":000}
+arg[0]: false
+arg[0]: false
+arg[0]: 00
+Transfer Object to JSON
+arg[0]: "00"
+
+*** entered org.thoughtcrime.securesms.sms.MessageSender.isLocalSelfSend
+
+arg[0]: org.thoughtcrime.securesms.ApplicationContext@dad0000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00e0a","$weakRef":000}
+arg[0]: org.thoughtcrime.securesms.recipients.Recipient@bca00000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00e0a","$weakRef":000}
+arg[0]: false
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.MessageSender.isLocalSelfSend
+
+*** entered org.thoughtcrime.securesms.sms.MessageSender.isPushTextSend
+
+arg[0]: org.thoughtcrime.securesms.ApplicationContext@dad0000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00e0a","$weakRef":000}
+arg[0]: org.thoughtcrime.securesms.recipients.Recipient@bca00000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00e0a","$weakRef":000}
+arg[0]: false
+
+*** entered org.thoughtcrime.securesms.sms.MessageSender.isPushDestination
+
+arg[0]: org.thoughtcrime.securesms.ApplicationContext@dad0000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00e0a","$weakRef":000}
+arg[0]: org.thoughtcrime.securesms.recipients.Recipient@bca00000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00e0a","$weakRef":000}
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.MessageSender.isPushDestination
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.MessageSender.isPushTextSend
+
+*** entered org.thoughtcrime.securesms.sms.MessageSender.sendTextPush
+
+arg[0]: org.thoughtcrime.securesms.ApplicationContext@dad0000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00e0a","$weakRef":000}
+arg[0]: org.thoughtcrime.securesms.recipients.Recipient@bca00000
+Transfer Object to JSON
+arg[0]: {"$handle":"0x00e0a","$weakRef":000}
+arg[0]: 00
+Transfer Object to JSON
+arg[0]: "00"
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.thoughtcrime.securesms.sms.MessageSender.sendTextPush
+
+retval: undefined
+
+trans object: undefined
+
+*** exiting org.thoughtcrime.securesms.sms.MessageSender.sendTextMessage
+
+retval: 0
+
+trans object: "0"
+
+*** exiting org.thoughtcrime.securesms.sms.MessageSender.send
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+retval: +0000000000000
+
+trans object: {"$handle":"0x00d00","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSenderDeviceId
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSenderDeviceId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getProtocol
+
+retval: 00000
+
+trans object: 00000
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getProtocol
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getServiceCenterAddress
+
+retval: GCM
+
+trans object: "GCM"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getServiceCenterAddress
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isReplyPathPresent
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isReplyPathPresent
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getPseudoSubject
+
+retval: 
+
+trans object: ""
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getPseudoSubject
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSentTimestampMillis
+
+retval: 0000000000000
+
+trans object: "0000000000000"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSentTimestampMillis
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getGroupId
+
+retval: null
+
+trans object: null
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getGroupId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSubscriptionId
+
+retval: -0
+
+trans object: -0
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSubscriptionId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getExpiresIn
+
+retval: 0
+
+trans object: "0"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getExpiresIn
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getRevealDuration
+
+retval: 0
+
+trans object: "0"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getRevealDuration
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isUnidentified
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isUnidentified
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isJoined
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isJoined
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isPreKeyBundle
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isLegacyPreKeyBundle
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isLegacyPreKeyBundle
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isContentPreKeyBundle
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isContentPreKeyBundle
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isPreKeyBundle
+
+*** entered org.thoughtcrime.securesms.sms.IncomingEncryptedMessage.isSecureMessage
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingEncryptedMessage.isSecureMessage
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isContentPreKeyBundle
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isContentPreKeyBundle
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+retval: +0000000000000
+
+trans object: {"$handle":"0x00d0a","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getGroupId
+
+retval: null
+
+trans object: null
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getGroupId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+retval: +0000000000000
+
+trans object: {"$handle":"0x00db0","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSenderDeviceId
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSenderDeviceId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSentTimestampMillis
+
+retval: 0000000000000
+
+trans object: "0000000000000"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSentTimestampMillis
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getProtocol
+
+retval: 00000
+
+trans object: 00000
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getProtocol
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSubscriptionId
+
+retval: -0
+
+trans object: -0
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSubscriptionId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getExpiresIn
+
+retval: 0
+
+trans object: "0"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getExpiresIn
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isUnidentified
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isUnidentified
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getPseudoSubject
+
+retval: 
+
+trans object: ""
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getPseudoSubject
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isReplyPathPresent
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isReplyPathPresent
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getServiceCenterAddress
+
+retval: GCM
+
+trans object: "GCM"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getServiceCenterAddress
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getMessageBody
+
+retval: ???
+
+trans object: "???"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getMessageBody
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSentTimestampMillis
+
+retval: 0000000000000
+
+trans object: "0000000000000"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSentTimestampMillis
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+retval: +0000000000000
+
+trans object: {"$handle":"0x00da0","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSubscriptionId
+
+retval: -0
+
+trans object: -0
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSubscriptionId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+retval: +0000000000000
+
+trans object: {"$handle":"0x00c0a","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSenderDeviceId
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSenderDeviceId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getProtocol
+
+retval: 00000
+
+trans object: 00000
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getProtocol
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getServiceCenterAddress
+
+retval: GCM
+
+trans object: "GCM"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getServiceCenterAddress
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isReplyPathPresent
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isReplyPathPresent
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getPseudoSubject
+
+retval: 
+
+trans object: ""
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getPseudoSubject
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSentTimestampMillis
+
+retval: 0000000000000
+
+trans object: "0000000000000"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSentTimestampMillis
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getGroupId
+
+retval: null
+
+trans object: null
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getGroupId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSubscriptionId
+
+retval: -0
+
+trans object: -0
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSubscriptionId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getExpiresIn
+
+retval: 0
+
+trans object: "0"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getExpiresIn
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getRevealDuration
+
+retval: 0
+
+trans object: "0"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getRevealDuration
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isUnidentified
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isUnidentified
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isJoined
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isJoined
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isPreKeyBundle
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isLegacyPreKeyBundle
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isLegacyPreKeyBundle
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isContentPreKeyBundle
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isContentPreKeyBundle
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isPreKeyBundle
+
+*** entered org.thoughtcrime.securesms.sms.IncomingEncryptedMessage.isSecureMessage
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingEncryptedMessage.isSecureMessage
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isContentPreKeyBundle
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isContentPreKeyBundle
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+retval: +0000000000000
+
+trans object: {"$handle":"0x00bda","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getGroupId
+
+retval: null
+
+trans object: null
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getGroupId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityUpdate
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityDefault
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+retval: false
+
+trans object: false
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isIdentityVerified
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+retval: +0000000000000
+
+trans object: {"$handle":"0x00bca","$weakRef":000}
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSender
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSenderDeviceId
+
+retval: 0
+
+trans object: 0
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSenderDeviceId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSentTimestampMillis
+
+retval: 0000000000000
+
+trans object: "0000000000000"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSentTimestampMillis
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getProtocol
+
+retval: 00000
+
+trans object: 00000
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getProtocol
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getSubscriptionId
+
+retval: -0
+
+trans object: -0
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getSubscriptionId
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getExpiresIn
+
+retval: 0
+
+trans object: "0"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getExpiresIn
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isUnidentified
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isUnidentified
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getPseudoSubject
+
+retval: 
+
+trans object: ""
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getPseudoSubject
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isReplyPathPresent
+
+retval: true
+
+trans object: true
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.isReplyPathPresent
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getServiceCenterAddress
+
+retval: GCM
+
+trans object: "GCM"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getServiceCenterAddress
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.getMessageBody
+
+retval: dfdf
+
+trans object: "dfdf"
+
+*** exiting org.thoughtcrime.securesms.sms.IncomingTextMessage.getMessageBody
+
+*** entered org.thoughtcrime.securesms.sms.IncomingTextMessage.isPush
